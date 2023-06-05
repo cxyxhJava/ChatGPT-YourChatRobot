@@ -11,17 +11,17 @@ chatgpt:
   #  openai的apikey
   #  支持多个key（虽然有判空，但仍然建议有多少个写多少个，别留空👨‍🔧）
   apiKey:
-    - sk-xxxxx
-    - sk-xxxxx
+    - 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
+    #- sk-xxxxx
 
 qq:
   #  是否使用qq true/false
-  enable: true
+  enable: false
   #  登陆方法：1.密码登录 2.扫码登录(推荐)
   method: 2
   #  qq账号密码
-  account: 123456
-  password: xxxx
+  account: 2482070108
+  password: tigerQAZ2@
   #  是否自动同意好友申请
   acceptNewFriend: false
   #  是否自动同意被邀请入群
